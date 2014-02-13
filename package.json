@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "argumentum": "~0.6.0",
+    "cli-prompt": "~0.3.2",
+    "colors": "~0.6.2",
+    "func-queue": "~1.2.1"
+  }
+}
